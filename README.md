@@ -1,6 +1,7 @@
 Hi, I’m Nathan. I like making things. Find me on [X @nmorton](https://x.com/nmorton), [HODL Juice](https://hodljuice.app), and [The BTC Brew](https://thebtcbrew.com).
 
 - [Frank](https://github.com/nmorton13/frank) — a work log for me and my AI agents.
+  - [Frank for Omarchy](https://github.com/nmorton13/omarchy-frank) — a hotkey overlay for Frank's todos and notes on the Omarchy desktop.
 - [Edward](https://github.com/nmorton13/edward) — a place to keep research, notes, and writing connected.
 - [Mentat](https://github.com/nmorton13/mentat) — a local-first tool for capturing and connecting thoughts.
 - [HODL Juice for Omarchy](https://github.com/nmorton13/omarchy-hodljuice) — an Omarchy plugin for using HODL Juice from the desktop.
