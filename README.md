@@ -1,4 +1,4 @@
-Hi, I’m Nathan. I like making things. Find me on [X @nmorton](https://x.com/nmorton), [HODL Juice](https://hodljuice.app), and [The BTC Brew](https://thebtcbrew.com).
+Hi, I’m Nathan. I like making things. Find me on [X @nmorton](https://x.com/nmorton), [HODL Juice](https://hodljuice.app), [The BTC Brew](https://thebtcbrew.com), and [LFKai](https://lfkai.town)
 
 - [sidecast](https://github.com/nmorton13/sidecast) - A podcast player for claude code.
 - [Frank Memory](https://github.com/nmorton13/frank-memory) - A self-hosted, Notion-style shared memory vault for AI agents, running on Cloudflare.
